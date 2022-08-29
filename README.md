@@ -1,5 +1,7 @@
 # MAD_PRACTICAL1_21012022040
+1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 ![Screenshot 2022-08-23 212852](https://user-images.githubusercontent.com/105143969/187081199-52a19538-6bcb-4092-8a2b-24a5cdf657aa.png)
+
 ![Screenshot 2022-08-23 212959](https://user-images.githubusercontent.com/105143969/187081202-b8f33aa9-8c65-4585-8034-13fe997a3bef.png)
 ![Screenshot 2022-08-23 213055](https://user-images.githubusercontent.com/105143969/187081210-7f6864a9-035a-4560-aa34-7afff27b3809.png)
 ![Screenshot 2022-08-23 213204](https://user-images.githubusercontent.com/105143969/187081212-6ba230bc-bdd6-4d33-9ffc-5cd4171530eb.png)
